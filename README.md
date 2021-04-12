@@ -1,5 +1,5 @@
 # growth mindset
-A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+A **growth mindset** believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
 By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
 
@@ -25,3 +25,14 @@ walk through the problem once again, bit by bit, looking for new ways to think a
  A growth mindset opens me up to more creativity and possibility, and I discover I’m able to achieve more and set higher goals.
 
 [more read](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
+Basic writing and formatting syntax
+1.**Headings**
+   To create a heading, add one to six # symbols before your heading text.
+2.**Styling text**  
+    * Bold	** ** or __ __
+    * Italic	* * or _ _
+3.**Lists**
+   You can make an unordered list by preceding one or more lines of text with - or *.
+
