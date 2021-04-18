@@ -11,3 +11,4 @@ Loops are used in JavaScript to perform repeated tasks based on a condition. Con
 ![](https://www.guru99.com/images/2013/04/loop.png)
 2. ** WHILE LOOPS **
 ![](https://www.tutorialspoint.com/javascript/images/while_loop.jpg)
+---------------------------------------------------
