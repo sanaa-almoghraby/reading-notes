@@ -66,7 +66,7 @@ walk through the problem once again, bit by bit, looking for new ways to think a
 # Code 301 - Intermediate Software Development #
 | class | link        |
 | :---- | --------:   |
-| class1 | [link]()   |
+| class1 | [link](https://sanaa-almoghraby.github.io/reading-notes/class01)   |
 | class2 |  [link]()  |
 | class3 |  [link]()  |
 | class4 | [link]()   |
