@@ -28,7 +28,7 @@
 | class3 |  [link](https://sanaa-almoghraby.github.io/reading-notes/class03)  |
 | class4 | [link](https://sanaa-almoghraby.github.io/reading-notes/class04)   |
 | class5 |  [link](https://sanaa-almoghraby.github.io/reading-notes/class05)  |
-| class6 |  [link]()  |
+| class6 |  [link](https://sanaa-almoghraby.github.io/reading-notes/class06)  |
 | class7 |  [link]()  |
 | class8 |  [link]()  |
 | class9 |  [link]()  |
