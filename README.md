@@ -32,7 +32,7 @@
 | class7 |  [link](https://sanaa-almoghraby.github.io/reading-notes/class07)  |
 | class8 |  [link](https://sanaa-almoghraby.github.io/reading-notes/class08)  |
 | class9 |  [link](https://sanaa-almoghraby.github.io/reading-notes/class09)  |
-| class10 |  [link]() |
+| class10 |  [link](https://sanaa-almoghraby.github.io/reading-notes/class10) |
 | class11 |  [link]() |
 | class12 |  [link]() |
 | class13 |  [link]() |
