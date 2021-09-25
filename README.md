@@ -43,7 +43,7 @@
 
 | class   | link         |
 | :------ | --------:    |
-| class1  | [link]()     |
+| class1  | [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class01)     |
 | class2  |  [link]()    |
 | class3  |  [link]()    |
 | class4  | [link]()     |
