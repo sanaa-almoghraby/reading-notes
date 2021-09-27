@@ -38,15 +38,13 @@
     Here are the types of loops that we can find in Java:
 
     1.Simple for loop
-    
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20191108131134/For-Loop.jpg)
 
     2.Enhanced for-each loop
-
- ![](https://1.bp.blogspot.com/-sbcx1gZN5Zs/XPeFw4TNCdI/AAAAAAAAU9A/d37MRLD2RsMX7DyiFc9DglQn27VtAvVZACLcBGAs/w1200-h630-p-k-no-nu/The%2BEnhanced%2Bfor%2Bloop%2Bin%2BJava%2B-%2BHostmann%2Bbook.png)
+![](https://1.bp.blogspot.com/-sbcx1gZN5Zs/XPeFw4TNCdI/AAAAAAAAU9A/d37MRLD2RsMX7DyiFc9DglQn27VtAvVZACLcBGAs/w1200-h630-p-k-no-nu/The%2BEnhanced%2Bfor%2Bloop%2Bin%2BJava%2B-%2BHostmann%2Bbook.png)
     3.While loop
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20191118164726/While-Loop-GeeksforGeeks.jpg)
     4.Do-While loop
 
- ![](https://media.geeksforgeeks.org/wp-content/uploads/20191118154342/do-while-Loop-GeeksforGeeks2.jpg)
+![](https://media.geeksforgeeks.org/wp-content/uploads/20191118154342/do-while-Loop-GeeksforGeeks2.jpg)
