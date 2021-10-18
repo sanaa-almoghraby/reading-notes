@@ -60,7 +60,7 @@
 | class15 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class15)    |
 | class16 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class16)    | 
 | class17 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class17)    |
-| class18 |  [link]()    |
+| class18 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class18)    |
 | class19 |  [link]()    |
 | class20 |  [link]()    | 
 | class21 |  [link]()    |
