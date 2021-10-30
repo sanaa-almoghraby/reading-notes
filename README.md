@@ -66,6 +66,19 @@
 | class21 |  [link]()    |
 | class22 |  [link]()    |
 | class23 |  [link]()    |
-
-
-
+| class24 |  [link]()    |
+| class25 |  [link]()    |
+| class26 |  [link]()    |
+| class27 |  [link]()    |
+| class28 |  [link]()    |
+| class29 |  [link]()    |
+| class30 |  [link]()    |
+| class31 |  [link]()    |
+| class32 |  [link]()    |
+| class33 |  [link]()    |
+| class34 |  [link]()    |
+| class35 |  [link]()    |
+| class36 |  [link]()    |
+| class37 |  [link]()    |
+| class38 |  [link]()    |
+| class39 |  [link]()    |
