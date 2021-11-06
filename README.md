@@ -68,7 +68,7 @@
 | class28 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class28)    |
 | class29 |  [link](https://github.com/sanaa-almoghraby/reading-notes/blob/main/code-401/class29.md)|
 | class30 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class30)    |
-| class31 |  [link]()    |
+| class31 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class31)    |
 | class32 |  [link]()    |
 | class33 |  [link]()    |
 | class34 |  [link]()    |
