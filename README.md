@@ -70,7 +70,7 @@
 | class30 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class30)    |
 | class31 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class31)    |
 | class32 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class32)    |
-| class33 |  [link]()    |
+| class33 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class33)    |
 | class34 |  [link]()    |
 | class35 |  [link]()    |
 | class36 |  [link]()    |
