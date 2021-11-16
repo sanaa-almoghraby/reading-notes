@@ -1,6 +1,6 @@
 # Amplify and Kinesis
 ### ANALYTICS
-
+![](https://i.ytimg.com/vi/61vlNE4JeaM/maxresdefault.jpg)
 The Analytics category enables you to collect analytics data for your App. The Analytics category comes with built-in support for Amazon Pinpoint and Amazon Kinesis (Kinesis support is currently only available in the Amplify JavaScript library).
 
 ### Record event
