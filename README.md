@@ -76,7 +76,7 @@
 | class36 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class36)    |
 | class37 |  [link](https://github.com/sanaa-almoghraby/reading-notes/blob/main/code-401/class37.md)|
 | class38 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class38)    |
-| class39 |  [link]()|
+| class39 |  [link](https://sanaa-almoghraby.github.io/reading-notes/code-401/class39)|
 | class40 |  [link]()|
 | class41 |  [link]()|
 | class42 |  [link]()|
